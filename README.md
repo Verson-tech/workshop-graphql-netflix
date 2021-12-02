@@ -888,4 +888,5 @@ Now that you've hooked everything up, time to deploy to production.
   ![Netlify Setup Example](./tutorial/images/prodDeploy.png?raw=true)
   
   
-  [![My Netlify App](https://friendly-montalcini-dddbed.netlify.app/)
+  
+  [My Netlify App](#https://friendly-montalcini-dddbed.netlify.app/)
